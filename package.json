@@ -1,7 +1,7 @@
 {
   "name": "country-data",
   "version": "1.0.0",
-  "main": "country-data.js",
-  "type": "module",
-  "types": "index.d.ts"
+  "main": "./index.ts",
+  "types": "./index.d.ts",
+  "type": "module"
 }
