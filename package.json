@@ -1,0 +1,6 @@
+{
+  "name": "country-data",
+  "version": "1.0.0",
+  "main": "country-data.js",
+  "type": "module"
+}
